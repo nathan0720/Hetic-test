@@ -6,10 +6,10 @@ Dépôt de travail de Nathan, Ilan, Fabrice et Simon pour le cours de gestion de
 
 | Membre | Compte GitHub | Rôle |
 | --- | --- | --- |
-| Nathan | [nathan0720](https://github.com/nathan0720) | Propriétaire du dépôt ; rôle projet à définir |
-| Ilan | [ilan58](https://github.com/ilan58) | À définir |
-| Fabrice | [fabric-web](https://github.com/fabric-web) | À définir |
-| Simon | [simonbizonzolopro](https://github.com/simonbizonzolopro) | À définir |
+| Nathan | [nathan0720](https://github.com/nathan0720) | Coordination du projet et propriétaire du dépôt |
+| Ilan | [ilan58](https://github.com/ilan58) | Développement |
+| Fabrice | [fabric-web](https://github.com/fabric-web) | Design et expérience utilisateur |
+| Simon | [simonbizonzolopro](https://github.com/simonbizonzolopro) | Tests et documentation |
 
 ## Organisation
 
