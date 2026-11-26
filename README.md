@@ -1,4 +1,4 @@
-# Projet d’équipe — Cycle 2
+# Projet d’équipe
 
 Dépôt de travail de Nathan, Ilan, Fabrice et Simon pour le cours de gestion de projet.
 
